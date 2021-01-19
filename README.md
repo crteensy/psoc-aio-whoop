@@ -1,8 +1,6 @@
 # psoc-aio-whoop
 PSoC6 based AIO FC, whoop size
 
-KiCad files for a quadcopter AIO FC, whoop size, PSoC6 based.
-
 Overall specs:
 - 1-3S, 40 A (80 A for 5 sec)
 - main controller: CY8C6347BZI-BLD34, dual core (144 MHz M4F + 72 MHz M0+)
